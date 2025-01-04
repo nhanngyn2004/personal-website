@@ -30,7 +30,7 @@ export const About = () => {
                 </li>
                 <li className={styles.aboutItem}>
                     <div className={styles.aboutItemText}>
-                        <p>I am a 2nd generation Vietnamese American and 2nd generation college student. In my free time, I enjoy hanging out with friends, eating, and playing volleyball and video games. </p>
+                        <p>I am a 2nd generation Vietnamese American and college student. In my free time, I enjoy hanging out with friends, eating, playing volleyball, and video games. </p>
                     </div>
                 </li>
             </ul>
