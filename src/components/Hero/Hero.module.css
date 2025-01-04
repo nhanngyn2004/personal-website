@@ -70,7 +70,7 @@
     top: -128px;
     left: -10vw;
     border-radius: 764px;
-    background: rgba(199, 185, 185, 0.7);
+    background: rgba(168, 153, 153, 0.7);
     filter: blur(100px);
     z-index: 0;
 }
@@ -84,7 +84,7 @@
     top: -246px;
     right: -25vw;
     border-radius: 764px;
-    background: rgba(169, 153, 153, 0.7);
+    background: rgba(168, 153, 153, 0.7);
     filter: blur(100px);
     z-index: 0;
 }

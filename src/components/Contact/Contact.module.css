@@ -68,15 +68,15 @@
     }
 
     .text p {
-        font-size: 18px;
+        font-size: 20px;
     }
 
     .link a {
-        font-size: 18px; 
+        font-size: 20px; 
     }
 
     .link img {
-        width: 20px; 
-        height: 20px;
+        width: 30px; 
+        height: 30px;
     }
 }
