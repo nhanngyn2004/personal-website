@@ -1,4 +1,5 @@
 {
+  "homepage": "https://nhanngyn2004.github.io/personal-website",
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -29,6 +30,5 @@
     "gh-pages": "^6.3.0",
     "globals": "^15.14.0",
     "vite": "^6.0.5"
-  },
-  "homepage": "https://<your-username>.github.io/<repo-name>"
+  }
 }
