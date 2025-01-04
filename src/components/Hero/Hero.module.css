@@ -50,7 +50,7 @@
 
 @keyframes floating {
     0% {
-        transofrm: translate(0, 0px);
+        transform: translate(0, 0px);
     }
     50% {
         transform: translate(0, 10px);
