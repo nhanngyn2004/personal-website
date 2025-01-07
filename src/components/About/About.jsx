@@ -17,7 +17,7 @@ export const About = () => {
                     alt="cursor"/>
                     <div className={styles.aboutItemText}>
                         <h3>Frontend Developer</h3>
-                        <p>I have with experience in HTML/CSS and React.</p>
+                        <p>I have experience with HTML/CSS and React.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
