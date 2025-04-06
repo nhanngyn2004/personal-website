@@ -17,7 +17,7 @@ export const About = () => {
                     alt="cursor"/>
                     <div className={styles.aboutItemText}>
                         <h3>Frontend Developer</h3>
-                        <p>I have experience with HTML/CSS and React.</p>
+                        <p>I have experience with HTML/CSS, Javascript, and React.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
@@ -25,7 +25,7 @@ export const About = () => {
                     alt="server"/>
                     <div className={styles.aboutItemText}>
                         <h3>Backend Developer</h3>
-                        <p>I have experience using Python, C/C++, Java, and Javascript.</p>
+                        <p>I have experience using Python, C/C++, and Java.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
