@@ -1,5 +1,11 @@
 [
     {
+        "title": "AWSpeak AI",
+        "imageSrc": "projects/awspeak.png",
+        "description": "Developed a full-stack AI-powered interview preparation platform leveraging AWS services that generates customized interview questions based on job title and description.",
+        "skills": ["Typescript", "Python", "CSS", "Javascript"]
+    },
+    {
         "title": "Minesweeper AI",
         "imageSrc": "projects/ai.png",
         "description": "Programmed an AI to play minesweeper using probability and algorithms to determine the next best move.",
@@ -10,11 +16,5 @@
         "imageSrc": "projects/totoro.png",
         "description": "Created a travel website utilizing the Yelp API to provide the best recommendations based on the location.",
         "skills": ["JavaScript", "HTML", "CSS", "Python"]
-    },
-    {
-        "title": "AWSpeak AI",
-        "imageSrc": "projects/awspeak.png",
-        "description": "Developed a full-stack AI-powered interview preparation platform leveraging AWS services that generates customized interview questions based on job title and description.",
-        "skills": ["Typescript", "Python", "CSS", "Javascript"]
     }
 ]
