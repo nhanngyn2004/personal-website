@@ -3,13 +3,15 @@
         "title": "AWSpeak AI",
         "imageSrc": "projects/awspeak.png",
         "description": "Developed a full-stack AI-powered interview preparation platform leveraging AWS services that generates customized interview questions based on job title and description.",
-        "skills": ["Typescript", "Python", "CSS", "Javascript"]
+        "skills": ["Typescript", "Python", "CSS", "Javascript"],
+        "githubLink": "https://github.com/nhanngyn2004/AWSpeak-AI"
     },
     {
         "title": "Minesweeper AI",
         "imageSrc": "projects/ai.png",
         "description": "Programmed an AI to play minesweeper using probability and algorithms to determine the next best move.",
-        "skills": ["Python"]
+        "skills": ["Python"],
+        "githubLink": "https://github.com/nhanngyn2004/ai-minesweeper"
     },
     {
         "title": "Totoro Travels",

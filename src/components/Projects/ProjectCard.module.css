@@ -42,3 +42,14 @@
     background: var(--color-dark);
     padding: 2px 22px;
 }
+
+/* Simple GitHub link styling */
+.githubContainer {
+    margin-top: 15px;
+}
+
+.githubContainer a {
+    color: var(--color-text);
+    text-decoration: underline;
+    font-size: 18px;
+}

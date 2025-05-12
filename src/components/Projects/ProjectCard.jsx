@@ -5,7 +5,7 @@ import styles from "./ProjectCard.module.css";
 
 
 export const ProjectCard = ({
-    project : {title, imageSrc, description, skills}}) => {
+    project : {title, imageSrc, description, skills, githubLink}}) => {
     return(
     <div className={styles.container}>
         <img 
@@ -20,6 +20,17 @@ export const ProjectCard = ({
                 return <li key={id} className={styles.skill}>{skill}</li>
             })}
         </ul>
+        {githubLink && (
+            <div className={styles.githubContainer}>
+                <a 
+                    href={githubLink} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                >
+                    View on GitHub
+                </a>
+            </div>
+        )}
     </div>
     );
 };
